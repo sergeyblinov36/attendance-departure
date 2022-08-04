@@ -1,0 +1,12 @@
+# Created by pytest automatically.
+*.mp4
+/venv
+/__pycache__
+/.idea
+/attendance-python
+/.vs
+/ChildAttendance
+/childImgs
+/escortImgs
+/New folder
+/StaffAttendance
